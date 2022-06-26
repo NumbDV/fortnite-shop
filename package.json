@@ -1,6 +1,6 @@
 {
   "name": "fortnite-shop",
-  "home": "https://NumbDV.github.io/fortnite-shop",
+  "homepage": "https://NumbDV.github.io/fortnite-shop",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
