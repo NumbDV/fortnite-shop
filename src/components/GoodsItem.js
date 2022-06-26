@@ -24,7 +24,7 @@ return   <div className="row">
 						<p>{description}</p>
 					</div>
 					<div className="card-action action-align">
-						<button className="btn" onClick={() => addToBasket({
+						<button className="btn indigo darken-4" onClick={() => addToBasket({
 							id,
 							name,
 							finalPrice
